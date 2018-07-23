@@ -50,7 +50,7 @@ img {
   border: 1px solid gray;
 }
 img:hover {
-  border: 1px solid purple;
+  border: 1px solid black;
 }
 html {
   background: url('../images/white-wood.jpg') no-repeat center center fixed;
