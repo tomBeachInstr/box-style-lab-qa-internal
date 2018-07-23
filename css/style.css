@@ -60,7 +60,7 @@ html {
 }
 h4 {
   background: linear-gradient(green, yellow, red);
-  box-shadow: -5px 5px green;
+  box-shadow: -1px 1px green, -2px 2px green, -3px 3px green, -4px 4px green;
 }
 
 
