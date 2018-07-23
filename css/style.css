@@ -49,9 +49,9 @@ h4 {
 img {
   border: 1px solid gray;
 }
-/*.container {
-  box-shadow: 5px 5px 5px #111;
-}*/
+img:hover {
+  border: 1px solid purple;
+}
 html {
   background: url('../images/white-wood.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
