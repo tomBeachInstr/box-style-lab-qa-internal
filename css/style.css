@@ -47,7 +47,7 @@ h4 {
 
 /* ======= added ======= */
 img {
-  box-shadow: 5px 5px 5px #111;
+  border: 2px solid black;
 }
 .bg {
   height: 100%;
