@@ -35,8 +35,8 @@ h4 {
   display: inline-block;
 }
 .small {
-  width: 100%;
-  height: 100%;
+  width: 98%;
+  /*height: 100%;*/
 }
 .med {
   width: 203.5%;
