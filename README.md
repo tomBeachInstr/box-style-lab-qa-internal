@@ -8,10 +8,10 @@
 
 ## Introduction
 
-As you have already noticed (as an non-programming end-user of the internet)
+As you have already noticed (as a non-programming end-user of the internet)
 the majority of websites out there use boxes to represent content. Sometimes we
 see the borders of these boxes, sometimes they have a slight 3D effect, and
-sometimes they change color when we hover over them. 
+sometimes they change color when we hover over them.
 
 Now, being the web programmer that you are, you know there is good reason for
 this! The DOM, via direction from HTML and CSS, defaults to box shapes for the
@@ -20,11 +20,11 @@ effects to, and style our HTML boxes.
 
 Using a 'before' and 'after' example, we will transform a page into a column
 based presentation. In doing so, we will practice our skills writing re-usable,
-rule-based, CSS. 
+rule-based, CSS.
 
 This lab is a great time to practice editing CSS directly in Chrome Inspector
 Tools. This allows us to change properties/values on the fly and see what they
-look like on screen before going back and editing the actual CSS file. 
+look like on screen before going back and editing the actual CSS file.
 
 
 ## Instructions
@@ -78,7 +78,7 @@ values in ours: gradient direction, start color, and end color. For example, if
 we wanted to make a linear gradient that transitioned from left to right, white
 to black, we would do the following:
 
-`background: linear-gradient(to right, #FFF, #000)`. 
+`background: linear-gradient(to right, #FFF, #000)`.
 
 
 ## Don't Forget!

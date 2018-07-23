@@ -6,7 +6,6 @@ body, html {
   display: block;
   text-align: center;
 }
-
 .container, h1 {
   width: 80%;
   max-width: 600px;
@@ -14,43 +13,53 @@ body, html {
   padding: 10px;
   margin: 10px auto;
 }
-
 h4 {
   width: fit-content;
   display: inline-block;
   padding: 5px;
   margin: 20px 0 0 0;
 }
-
 .amiable {
   border: 1px solid #22aa44;
   box-shadow:  -1px 1px #22aa44, -2px 2px #22aa44, -3px 3px #22aa44, -4px 4px #22aa44, -5px 5px #22aa44;
   background-color: #44cc66;
-
 }
-
 .indifferent {
   background-color: #dddd22;
 }
-
 .dubious {
   background-color: #dd4444;
 }
-
 .column {
   width: 30%;
   display: inline-block;
 }
-
 .small {
   width: 100%;
   height: 100%;
 }
-
 .med {
   width: 203.5%;
 }
-
 .large {
   width: 303%;
 }
+
+/* ======= added ======= */
+img {
+  box-shadow: 5px 5px 5px #111;
+}
+.bg {
+  height: 100%;
+  background-image: url("./images/white-wood.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+
+
+
+/*/ == /*/
